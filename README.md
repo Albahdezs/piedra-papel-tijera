@@ -1,6 +1,6 @@
 # Hi everyone! :hand:
 
-✨ Welcome to my first repository on GitHub. ✨
+✨ Welcome to my repository on GitHub. ✨
 
 ---
 
