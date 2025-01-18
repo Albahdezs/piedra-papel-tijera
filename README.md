@@ -20,6 +20,8 @@ The rules are:
 
 If both players choose the same shape, it’s a tie. The game is usually played in multiple rounds, and the first player to win a set number of rounds wins the game.
 
+**[Play now!](https://albahdezs.github.io/piedra-papel-tijera/)**
+
 ---
 
 # Support 👍
